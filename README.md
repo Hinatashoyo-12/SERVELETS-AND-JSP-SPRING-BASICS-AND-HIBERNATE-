@@ -13,8 +13,8 @@
 
 <img width="809" height="646" alt="Screenshot 2025-11-02 134203" src="https://github.com/user-attachments/assets/5aca3253-d18e-458c-aa87-e915811142a0" />
 
-
 <img width="890" height="218" alt="Screenshot 2025-11-02 134213" src="https://github.com/user-attachments/assets/ca84700a-d3b2-4cd6-88ed-383e06b52e5a" />
+
 
 # PART C
 
